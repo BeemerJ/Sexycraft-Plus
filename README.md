@@ -65,9 +65,6 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server. _Fabr
 * [**FerriteCore**](https://modrinth.com/mod/ferrite-core/versions)  
   !
   
-* [**Hydrogen**](https://modrinth.com/mod/hydrogen/versions)  
-  !
-  
 * [**Indium**](https://modrinth.com/mod/indium/versions)  
   !
   
