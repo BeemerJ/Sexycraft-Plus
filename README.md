@@ -2,8 +2,8 @@
 
 **Minecraft+ client-side modlist for my Compatriots over at the Sexy Server. _Fabric Version_.**
 
-⚠ - For an earlier release but is still compatable with current _Branch Version_.  
-⛔ - Doesn't work in _Branch Version_ at the moment.
+🟡 - For an earlier release but is still compatable with current _Branch Version_.  
+🔴 - Doesn't work in _Branch Version_ at the moment.
 
 ---
 ### Framework / Libraries
@@ -33,7 +33,7 @@
 * [**Continuity**](https://modrinth.com/mod/continuity/versions)  
   !
 
-* [**FabricSkyboxes**](https://modrinth.com/mod/fabricskyboxes/versions)⛔  
+* [**FabricSkyboxes**](https://modrinth.com/mod/fabricskyboxes/versions)🔴  
   !
 
 * [**Mod Menu**](https://modrinth.com/mod/modmenu/versions)  
@@ -44,7 +44,7 @@
 ### Performance
 ---
 
-* [**Better Beds**](https://modrinth.com/mod/better-beds/versions)⚠  
+* [**Better Beds**](https://modrinth.com/mod/better-beds/versions)🟡  
   !
   
 * [**Clumps**](https://www.curseforge.com/minecraft/mc-mods/clumps/files)  
@@ -56,7 +56,7 @@
 * [**Dynamic FPS**](https://modrinth.com/mod/dynamic-fps/versions)  
   !
   
-* [**Enhanced Block Entities**](https://modrinth.com/mod/ebe/versions)⛔  
+* [**Enhanced Block Entities**](https://modrinth.com/mod/ebe/versions)🔴  
   !
   
 * [**More Culling**](https://modrinth.com/mod/moreculling/versions)  
@@ -77,13 +77,13 @@
 * [**LazyDFU**](https://modrinth.com/mod/lazydfu/versions)  
   !
   
-* [**Lithium**](https://modrinth.com/mod/Lithium/versions)⛔  
+* [**Lithium**](https://modrinth.com/mod/Lithium/versions)🔴  
   !
   
 * [**Memory Leak Fix**](https://modrinth.com/mod/memoryleakfix/versions)  
   !
   
-* [**No Fade**](https://modrinth.com/mod/no-fade/versions)⛔  
+* [**No Fade**](https://modrinth.com/mod/no-fade/versions)🔴  
   !
   
 * [**Sodium**](https://modrinth.com/mod/sodium/versions)  
@@ -109,7 +109,7 @@
 * [**BetterF3**](https://modrinth.com/mod/BetterF3/versions)  
   !
   
-* [**Better PVP**](https://chocolateminecraft.com/fairplaydownload.php)⛔  
+* [**Better PVP**](https://chocolateminecraft.com/fairplaydownload.php)🔴  
   !
   
 * [**Borderless Mining**](https://modrinth.com/mod/borderless-mining/versions)  
