@@ -56,7 +56,7 @@
 * [**Dynamic FPS**](https://modrinth.com/mod/dynamic-fps/versions)  
   !
   
-* [**Enhanced Block Entities**](https://modrinth.com/mod/ebe/versions)  
+* [**Enhanced Block Entities**](https://modrinth.com/mod/ebe/versions)⛔  
   !
   
 * [**More Culling**](https://modrinth.com/mod/moreculling/versions)  
@@ -109,7 +109,7 @@
 * [**BetterF3**](https://modrinth.com/mod/BetterF3/versions)  
   !
   
-* [**Better PVP**](https://chocolateminecraft.com/fairplaydownload.php)  
+* [**Better PVP**](https://chocolateminecraft.com/fairplaydownload.php)⛔  
   !
   
 * [**Borderless Mining**](https://modrinth.com/mod/borderless-mining/versions)  
