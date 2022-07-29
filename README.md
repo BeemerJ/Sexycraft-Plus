@@ -2,6 +2,9 @@
 
 Minecraft+ client-side modlist for my Compatriots over at the Sexy Server. _Fabric Version_.
 
+⚠ - For an earlier release but is still compatable with current Branch Version.  
+⛔ - Doesn't work in Branch Version at the moment.
+
 ---
 ### Framework / Libraries
 ---
