@@ -148,7 +148,7 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server.
 * [**Seamless Loading Screen**](https://modrinth.com/mod/seamless-loading-screen/versions)  
   !
 
-* [**New Default+ v1.55 (Fabric Compatable)**](https://modrinth.com/mod/seamless-loading-screen/versions)  
+* [**New Default+ v1.55 (Fabric Compatable)**](https://drive.google.com/file/d/1JXDs3ZhKhDeYGfZ9u5WfOa7lD_JngrCB/view?usp=sharing)  
   !
 
 
