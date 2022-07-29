@@ -3,7 +3,7 @@
 **Minecraft+ client-side modlist for my Compatriots over at the Sexy Server. _Fabric Version_.**
 
 🟡 - For an earlier release but is still compatable with current _Branch Version_.  
-🟠 - Compatable with current _Branch Version_, though buggy.  
+⭕ - Compatable with current _Branch Version_, though buggy.  
 🔴 - Doesn't work in _Branch Version_ at the moment.
 
 ---
@@ -134,7 +134,7 @@
 * [**Not Enough Crashes**](https://modrinth.com/mod/notenoughcrashes/versions)  
   !
   
-* [**Spyglass Improvements**](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements/files)🟠  
+* [**Spyglass Improvements**](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements/files)⭕  
   !
  
 * [**Xaero's World Map**](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files)  
