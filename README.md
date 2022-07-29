@@ -89,10 +89,6 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server. _Fabr
 * [**Sodium Options**](https://modrinth.com/mod/reeses-sodium-options/versions)  
   !
   
-* [**Spyglass Improvements**](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements/files)  
-  !
-
-
 ---
 ### Quality of Life
 ---
@@ -127,6 +123,9 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server. _Fabr
 * [**Not Enough Crashes**](https://modrinth.com/mod/notenoughcrashes/versions)  
   !
   
+* [**Spyglass Improvements**](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements/files)  
+  !
+ 
 * [**Xaero's World Map**](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files)  
   !
 
