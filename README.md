@@ -142,13 +142,13 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server.
 * [**Authentic Shadows**](https://www.curseforge.com/minecraft/texture-packs/authentic-shadows/files)  
   !
 
-* [fallingleaves](https://modrinth.com/mod/fallingleaves/versions)  
+* [**Falling Leaves**](https://modrinth.com/mod/fallingleaves/versions)  
   !
 
-* [Seamless Loading Screen ](https://modrinth.com/mod/seamless-loading-screen/versions)  
+* [**Seamless Loading Screen**](https://modrinth.com/mod/seamless-loading-screen/versions)  
   !
 
-* [Seamless Loading Screen ](https://modrinth.com/mod/seamless-loading-screen/versions)  
+* [**New Default+ v1.55 (Fabric Compatable)**](https://modrinth.com/mod/seamless-loading-screen/versions)  
   !
 
 
