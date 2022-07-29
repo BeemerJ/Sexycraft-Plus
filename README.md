@@ -5,14 +5,14 @@ Minecraft+ Clientside modlist for my Compatriots over at the Sexy Server. [Fabri
 
 ---
 
-## Framework / Libraries
+### Framework / Libraries
 
-## Performance
+### Performance
 
-## Quality of Life
+### Quality of Life
 
-## Visuals / Resource Packs
+### Visuals / Resource Packs
 
-## Shaders
+### Shaders
 
 
