@@ -4,8 +4,8 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server.
 
 
 ---
-
 ### Framework / Libraries
+---
 
 * [**Fabric Loader**](https://fabricmc.net/use/installer/)  
   !
@@ -37,48 +37,111 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server.
 * [**Mod Menu**](https://modrinth.com/mod/modmenu/versions)  
   !
 
+
+---
 ### Performance
+---
 
 * [**Better Beds**](https://modrinth.com/mod/better-beds/versions)  
   !
+  
 * [**Clumps**](https://www.curseforge.com/minecraft/mc-mods/clumps/files)  
   !
+  
 * [**DashLoader**](https://modrinth.com/mod/dashloader/versions)  
   !
+  
 * [**Dynamic FPS**](https://modrinth.com/mod/dynamic-fps/versions)  
   !
+  
 * [**Enhanced Block Entities**](https://modrinth.com/mod/ebe/versions)  
   !
+  
 * [**More Culling**](https://modrinth.com/mod/moreculling/versions)  
   !
+  
 * [**FastChest**](https://github.com/FakeDomi/FastChest/releases/)  
   !
+  
 * [**FerriteCore**](https://modrinth.com/mod/ferrite-core/versions)  
   !
+  
 * [**Hydrogen**](https://modrinth.com/mod/hydrogen/versions)  
   !
+  
 * [**Indium**](https://modrinth.com/mod/indium/versions)  
   !
+  
 * [**LazyDFU**](https://modrinth.com/mod/lazydfu/versions)  
   !
+  
 * [**Lithium**](https://modrinth.com/mod/Lithium/versions)  
   !
+  
 * [**Phosphor**](https://modrinth.com/mod/Phosphor/versions)  
   !
+  
 * [**No Fade**](https://modrinth.com/mod/no-fade/versions)  
   !
-* [Sodium](https://modrinth.com/mod/sodium/versions)  
+  
+* [**Sodium**](https://modrinth.com/mod/sodium/versions)  
   !
-* [Sodium Extra](https://modrinth.com/mod/sodium-extra/versions)  
+  
+* [**Sodium Extra**](https://modrinth.com/mod/sodium-extra/versions)  
   !
-* [Sodium Options](https://modrinth.com/mod/reeses-sodium-options/versions)  
+  
+* [**Sodium Options**](https://modrinth.com/mod/reeses-sodium-options/versions)  
   !
-* [Spyglass Improvements](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements/files)  
+  
+* [**Spyglass Improvements**](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements/files)  
+  !
 
+
+---
 ### Quality of Life
+---
 
+* [**AppleSkin**](https://modrinth.com/mod/appleskin/versions)  
+  !
+  
+* [**BetterF3**](https://modrinth.com/mod/BetterF3/versions)  
+  !
+  
+* [**Better PVP**](https://chocolateminecraft.com/fairplaydownload.php)  
+  !
+  
+* [**Borderless Mining**](https://modrinth.com/mod/borderless-mining/versions)  
+  !
+  
+* [**Client Tweaks**](https://modrinth.com/mod/client-tweaks/versions)  
+  !
+  
+* [**EasierVillagerTrading**](https://modrinth.com/mod/easiervillagertrading/versions)  
+  !
+  
+* [**Fabrishot**](https://modrinth.com/mod/fabrishot/versions)  
+  !
+  
+* [**LambDynamicLights**](https://modrinth.com/mod/lambdynamiclights/versions)  
+  !
+  
+* [**Mouse Wheelie**](https://modrinth.com/mod/mouse-wheelie/versions)  
+  !
+  
+* [**Not Enough Crashes**](https://modrinth.com/mod/notenoughcrashes/versions)  
+  !
+  
+* [**Xaero's World Map**](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files)  
+  !
+
+
+---
 ### Visuals / Resource Packs
+---
 
+
+---
 ### Shaders
+---
 
 
