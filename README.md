@@ -77,7 +77,7 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server. _Fabr
 * [**Phosphor**](https://modrinth.com/mod/Phosphor/versions)  
   !
   
-* [**No Fade**](https://modrinth.com/mod/no-fade/versions)  
+* [**No Fade**](https://modrinth.com/mod/no-fade/versions)⚠  
   !
   
 * [**Sodium**](https://modrinth.com/mod/sodium/versions)  
