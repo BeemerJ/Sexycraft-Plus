@@ -8,26 +8,72 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server.
 ### Framework / Libraries
 
 * [**Fabric Loader**](https://fabricmc.net/use/installer/)  
+  !
 
 * [**Fabric API**](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)  
+  !
 
 * [**Animatica**](https://modrinth.com/mod/animatica/versions)  
+  !
 
 * [**Balm**](https://www.curseforge.com/minecraft/mc-mods/balm-fabric/files)  
+  !
 
 * [**Chime**](https://modrinth.com/mod/chime/versions)  
+  !
 
 * [**CIT Resewn**](https://modrinth.com/mod/cit-resewn/versions)  
+  !
 
 * [**Cloth Config API**](https://modrinth.com/mod/cloth-config/versions)  
+  !
 
 * [**Continuity**](https://modrinth.com/mod/continuity/versions)  
+  !
 
 * [**FabricSkyboxes**](https://modrinth.com/mod/fabricskyboxes/versions)  
+  !
 
 * [**Mod Menu**](https://modrinth.com/mod/modmenu/versions)  
+  !
 
 ### Performance
+
+* [**Better Beds**](https://modrinth.com/mod/better-beds/versions)  
+  !
+* [**Clumps**](https://www.curseforge.com/minecraft/mc-mods/clumps/files)  
+  !
+* [**DashLoader**](https://modrinth.com/mod/dashloader/versions)  
+  !
+* [**Dynamic FPS**](https://modrinth.com/mod/dynamic-fps/versions)  
+  !
+* [**Enhanced Block Entities**](https://modrinth.com/mod/ebe/versions)  
+  !
+* [**More Culling**](https://modrinth.com/mod/moreculling/versions)  
+  !
+* [**FastChest**](https://github.com/FakeDomi/FastChest/releases/)  
+  !
+* [**FerriteCore**](https://modrinth.com/mod/ferrite-core/versions)  
+  !
+* [**Hydrogen**](https://modrinth.com/mod/hydrogen/versions)  
+  !
+* [**Indium**](https://modrinth.com/mod/indium/versions)  
+  !
+* [**LazyDFU**](https://modrinth.com/mod/lazydfu/versions)  
+  !
+* [**Lithium**](https://modrinth.com/mod/Lithium/versions)  
+  !
+* [**Phosphor**](https://modrinth.com/mod/Phosphor/versions)  
+  !
+* [nofade]()  
+  !
+* [sodium]()  
+  !
+* [sodium-extra]()  
+  !
+* [Sodium Options]()  
+  !
+* [Spyglass Improvements](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements/files)  
 
 ### Quality of Life
 
