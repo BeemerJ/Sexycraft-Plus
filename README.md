@@ -68,7 +68,7 @@
 * [**FerriteCore**](https://modrinth.com/mod/ferrite-core/versions)  
   !
   
-* [**ForgetMeChunk**](https://github.com/mjwells2002/ForgetMeChunk/releases)  
+* [**ForgetMeChunk**](https://modrinth.com/mod/forgetmechunk/versions)  
   !
   
 * [**Indium**](https://modrinth.com/mod/indium/versions)  
@@ -78,6 +78,9 @@
   !
   
 * [**Lithium**](https://modrinth.com/mod/Lithium/versions)⛔  
+  !
+  
+* [**Memory Leak Fix**](https://modrinth.com/mod/memoryleakfix/versions)  
   !
   
 * [**No Fade**](https://modrinth.com/mod/no-fade/versions)⛔  
