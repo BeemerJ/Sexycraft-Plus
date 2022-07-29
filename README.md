@@ -10,13 +10,13 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server.
 * [**Fabric Loader**](https://fabricmc.net/use/installer/)  
   !
 
-* [**Fabric API**](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)  
+* [**Fabric API**](https://modrinth.com/mod/fabric-api/versions)  
   !
 
 * [**Animatica**](https://modrinth.com/mod/animatica/versions)  
   !
 
-* [**Balm**](https://www.curseforge.com/minecraft/mc-mods/balm-fabric/files)  
+* [**Balm**](https://modrinth.com/mod/balm/versions)  
   !
 
 * [**Chime**](https://modrinth.com/mod/chime/versions)  
@@ -156,4 +156,8 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server.
 ### Shaders
 ---
 
+* [**Iris Shaders**](https://modrinth.com/mod/iris/versions)  
+  !
 
+
+---
