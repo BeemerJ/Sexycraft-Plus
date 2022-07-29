@@ -30,7 +30,7 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server. _Fabr
 * [**Continuity**](https://modrinth.com/mod/continuity/versions)  
   !
 
-* [**FabricSkyboxes**](https://modrinth.com/mod/fabricskyboxes/versions)  
+* [**FabricSkyboxes**](https://modrinth.com/mod/fabricskyboxes/versions)⛔  
   !
 
 * [**Mod Menu**](https://modrinth.com/mod/modmenu/versions)  
@@ -71,13 +71,13 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server. _Fabr
 * [**LazyDFU**](https://modrinth.com/mod/lazydfu/versions)  
   !
   
-* [**Lithium**](https://modrinth.com/mod/Lithium/versions)  
+* [**Lithium**](https://modrinth.com/mod/Lithium/versions)⛔  
   !
   
 * [**Phosphor**](https://modrinth.com/mod/Phosphor/versions)  
   !
   
-* [**No Fade**](https://modrinth.com/mod/no-fade/versions)⚠  
+* [**No Fade**](https://modrinth.com/mod/no-fade/versions)⛔  
   !
   
 * [**Sodium**](https://modrinth.com/mod/sodium/versions)  
