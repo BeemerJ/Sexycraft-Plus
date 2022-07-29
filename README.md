@@ -68,6 +68,9 @@
 * [**FerriteCore**](https://modrinth.com/mod/ferrite-core/versions)  
   !
   
+* [**ForgetMeChunk**](https://github.com/mjwells2002/ForgetMeChunk/releases)  
+  !
+  
 * [**Indium**](https://modrinth.com/mod/indium/versions)  
   !
   
@@ -75,9 +78,6 @@
   !
   
 * [**Lithium**](https://modrinth.com/mod/Lithium/versions)⛔  
-  !
-  
-* [**Phosphor**](https://modrinth.com/mod/Phosphor/versions)  
   !
   
 * [**No Fade**](https://modrinth.com/mod/no-fade/versions)⛔  
@@ -91,6 +91,10 @@
   
 * [**Sodium Options**](https://modrinth.com/mod/reeses-sodium-options/versions)  
   !
+  
+* [**Starlight**](https://modrinth.com/mod/starlight/versions)  
+  !
+  
   
 ---
 ### Quality of Life
