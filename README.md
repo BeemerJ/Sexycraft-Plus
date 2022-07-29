@@ -7,25 +7,25 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server.
 
 ### Framework / Libraries
 
-* [**Fabric**]()  
+* [**Fabric Loader**](https://fabricmc.net/use/installer/)  
 
-* [**Fabric API**]()  
+* [**Fabric API**](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)  
 
-* [**Animatica**]()  
+* [**Animatica**](https://modrinth.com/mod/animatica/versions)  
 
 * [**Balm**](https://www.curseforge.com/minecraft/mc-mods/balm-fabric/files)  
 
-* [**chime**]  
+* [**Chime**](https://modrinth.com/mod/chime/versions)  
 
-* [**CIT Resewn**]  
+* [**CIT Resewn**](https://modrinth.com/mod/cit-resewn/versions)  
 
-* [**cloth-config**]  
+* [**Cloth Config API**](https://modrinth.com/mod/cloth-config/versions)  
 
-* [**Continuity**]  
+* [**Continuity**](https://modrinth.com/mod/continuity/versions)  
 
-* [**fabricskyboxes**]  
+* [**FabricSkyboxes**](https://modrinth.com/mod/fabricskyboxes/versions)  
 
-* [**modmenu**]  
+* [**Mod Menu**](https://modrinth.com/mod/modmenu/versions)  
 
 ### Performance
 
