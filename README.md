@@ -2,7 +2,7 @@
 
 **Minecraft+ client-side modlist for my Compatriots over at the Sexy Server. _Fabric Version_.**
 
-🟡 - For an earlier release but is still compatable with current _Branch Version_.  
+🔵 - For an earlier release but is still compatable with current _Branch Version_.  
 ⭕ - Compatable with current _Branch Version_, though buggy.  
 🔴 - Doesn't work in _Branch Version_ at the moment.
 
@@ -45,7 +45,7 @@
 ### Performance
 ---
 
-* [**Better Beds**](https://modrinth.com/mod/better-beds/versions)🟡  
+* [**Better Beds**](https://modrinth.com/mod/better-beds/versions)🔵  
   !
   
 * [**Clumps**](https://www.curseforge.com/minecraft/mc-mods/clumps/files)  
