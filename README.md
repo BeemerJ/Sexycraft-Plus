@@ -1,4 +1,4 @@
-# Sexycraft+ <img src="assets/logo.png" alt="logo" style="width:25px;height:25px;">  _Fabric Version_
+# Sexycraft+<img src="assets/logo.png" alt="logo" style="width:25px;height:25px;">  _Fabric Version_
 Minecraft+ client-side modlist for my Compatriots over at the Sexy Server.
 
 
