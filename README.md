@@ -41,7 +41,7 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server. _Fabr
 ### Performance
 ---
 
-* [**Better Beds**](https://modrinth.com/mod/better-beds/versions)  
+* [**Better Beds**](https://modrinth.com/mod/better-beds/versions)⚠  
   !
   
 * [**Clumps**](https://www.curseforge.com/minecraft/mc-mods/clumps/files)  
