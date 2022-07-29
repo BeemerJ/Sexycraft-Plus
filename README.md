@@ -65,13 +65,13 @@ Minecraft+ client-side modlist for my Compatriots over at the Sexy Server.
   !
 * [**Phosphor**](https://modrinth.com/mod/Phosphor/versions)  
   !
-* [nofade]()  
+* [**No Fade**](https://modrinth.com/mod/no-fade/versions)  
   !
-* [sodium]()  
+* [Sodium](https://modrinth.com/mod/sodium/versions)  
   !
-* [sodium-extra]()  
+* [Sodium Extra](https://modrinth.com/mod/sodium-extra/versions)  
   !
-* [Sodium Options]()  
+* [Sodium Options](https://modrinth.com/mod/reeses-sodium-options/versions)  
   !
 * [Spyglass Improvements](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements/files)  
 
