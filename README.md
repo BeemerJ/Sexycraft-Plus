@@ -1,5 +1,5 @@
 # Sexycraft+ <img src="assets/logo.png" alt="logo" style="width:25px;height:25px;"> 
-Minecraft+ Clientside modlist for my Compatriots over at the Sexy Server. [Fabric](https://fabricmc.net/) only.
+Minecraft+ client-side modlist for my Compatriots over at the Sexy Server. [Fabric](https://fabricmc.net/) only.
 
 
 
