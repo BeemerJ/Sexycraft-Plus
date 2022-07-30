@@ -35,7 +35,7 @@
 * [**Continuity**](https://modrinth.com/mod/continuity/versions)  
   !
 
-* [**FabricSkyboxes**](https://modrinth.com/mod/fabricskyboxes/versions)🔴  
+* [**FabricSkyboxes**](https://modrinth.com/mod/fabricskyboxes/versions)  
   !
 
 * [**Mod Menu**](https://modrinth.com/mod/modmenu/versions)  
@@ -46,7 +46,7 @@
 ### Performance
 ---
 
-* [**Better Beds**](https://modrinth.com/mod/better-beds/versions)🔵  
+* [**Better Beds**](https://modrinth.com/mod/better-beds/versions)  
   !
   
 * [**Clumps**](https://www.curseforge.com/minecraft/mc-mods/clumps/files)  
@@ -58,7 +58,7 @@
 * [**Dynamic FPS**](https://modrinth.com/mod/dynamic-fps/versions)  
   !
   
-* [**Enhanced Block Entities**](https://modrinth.com/mod/ebe/versions)🔴  
+* [**Enhanced Block Entities**](https://modrinth.com/mod/ebe/versions)  
   !
   
 * [**More Culling**](https://modrinth.com/mod/moreculling/versions)  
@@ -79,13 +79,13 @@
 * [**LazyDFU**](https://modrinth.com/mod/lazydfu/versions)  
   !
   
-* [**Lithium**](https://modrinth.com/mod/Lithium/versions)🔴  
+* [**Lithium**](https://modrinth.com/mod/Lithium/versions)  
   !
   
 * [**Memory Leak Fix**](https://modrinth.com/mod/memoryleakfix/versions)  
   !
   
-* [**No Fade**](https://modrinth.com/mod/no-fade/versions)🔴  
+* [**No Fade**](https://modrinth.com/mod/no-fade/versions)  
   !
   
 * [**Sodium**](https://modrinth.com/mod/sodium/versions)  
@@ -111,7 +111,7 @@
 * [**BetterF3**](https://modrinth.com/mod/BetterF3/versions)  
   !
   
-* [**Better PVP**](https://chocolateminecraft.com/fairplaydownload.php)🔴  
+* [**Better PVP**](https://chocolateminecraft.com/fairplaydownload.php)  
   !
   
 * [**Borderless Mining**](https://modrinth.com/mod/borderless-mining/versions)  
@@ -135,7 +135,7 @@
 * [**Not Enough Crashes**](https://modrinth.com/mod/notenoughcrashes/versions)  
   !
   
-* [**Spyglass Improvements**](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements/files)⭕  
+* [**Spyglass Improvements**](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements/files)  
   !
  
 * [**Xaero's World Map**](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files)  
@@ -152,7 +152,7 @@
 * [**Falling Leaves**](https://modrinth.com/mod/fallingleaves/versions)  
   !
 
-* [**Seamless Loading Screen**](https://modrinth.com/mod/seamless-loading-screen/versions)🔵  
+* [**Seamless Loading Screen**](https://modrinth.com/mod/seamless-loading-screen/versions)  
   !
 
 * [**New Default+ v1.55 (Fabric Compatable)**](https://drive.google.com/file/d/1JXDs3ZhKhDeYGfZ9u5WfOa7lD_JngrCB/view?usp=sharing)  
