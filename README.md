@@ -131,7 +131,7 @@
 
 
 ---
-### Visuals / Resource Packs
+### Audiovisual / Resource Packs
 ---
 
 * [**Authentic Shadows**](https://www.curseforge.com/minecraft/texture-packs/authentic-shadows/files)  
