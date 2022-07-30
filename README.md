@@ -82,9 +82,6 @@
 * [**Memory Leak Fix**](https://modrinth.com/mod/memoryleakfix/versions)  
   !
   
-* [**No Fade**](https://modrinth.com/mod/no-fade/versions)  
-  !
-  
 * [**Sodium**](https://modrinth.com/mod/sodium/versions)  
   !
   
