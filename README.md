@@ -1,6 +1,7 @@
 # Sexycraft+ <img src="assets/logo.png" alt="logo" style="width:25px;height:25px;"> <sub><sup>| Fabric 1.19.1</sub></sup>
 
-**Minecraft+ client-side modlist for my Compatriots over at the Sexy Server. _Fabric Version_.**
+**Minecraft+ client-side modlist for my Compatriots over at the Sexy Server. _Fabric Version_.**  
+**///CURRENTLY BROKEN///**
 
 🔵 - For an earlier release but is still compatable with current _Branch Version_.  
 ⭕ - Compatable with current _Branch Version_, though buggy.  
