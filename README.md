@@ -140,7 +140,7 @@
 * [**Falling Leaves**](https://modrinth.com/mod/fallingleaves/versions)  
   >Adds a neat little particle effect to leaf blocks.
 
-* [**Seamless Loading Screen**](https://modrinth.com/mod/seamless-loading-screen/versions)🔵⭕  
+* [**Seamless Loading Screen**](https://modrinth.com/mod/seamless-loading-screen/versions)🔴  
   >Takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it.
 
 * [**New Default+ v1.55 (Fabric Compatable)**](https://drive.google.com/file/d/1JXDs3ZhKhDeYGfZ9u5WfOa7lD_JngrCB/view?usp=sharing)  
