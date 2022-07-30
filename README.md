@@ -46,9 +46,6 @@
 ### Performance
 ---
 
-* [**Better Beds**](https://modrinth.com/mod/better-beds/versions)  
-  !
-  
 * [**Clumps**](https://www.curseforge.com/minecraft/mc-mods/clumps/files)  
   !
   
