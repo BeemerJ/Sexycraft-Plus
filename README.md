@@ -12,34 +12,34 @@
 ---
 
 * [**Fabric Loader**](https://fabricmc.net/use/installer/)  
-  !
+  >
 
 * [**Fabric API**](https://modrinth.com/mod/fabric-api/versions)  
-  !
+  >
 
 * [**Animatica**](https://modrinth.com/mod/animatica/versions)  
-  !
+  >
 
 * [**Balm**](https://modrinth.com/mod/balm/versions)  
-  !
+  >
 
 * [**Chime**](https://modrinth.com/mod/chime/versions)  
-  !
+  >
 
 * [**CIT Resewn**](https://modrinth.com/mod/cit-resewn/versions)  
-  !
+  >
 
 * [**Cloth Config API**](https://modrinth.com/mod/cloth-config/versions)  
-  !
+  >
 
 * [**Continuity**](https://modrinth.com/mod/continuity/versions)  
-  !
+  >
 
 * [**FabricSkyboxes**](https://modrinth.com/mod/fabricskyboxes/versions)  
-  !
+  >
 
 * [**Mod Menu**](https://modrinth.com/mod/modmenu/versions)  
-  !
+  >
 
 
 ---
@@ -47,52 +47,49 @@
 ---
 
 * [**Clumps**](https://www.curseforge.com/minecraft/mc-mods/clumps/files)  
-  !
+  >
   
 * [**DashLoader**](https://modrinth.com/mod/dashloader/versions)  
-  !
+  >
   
 * [**Dynamic FPS**](https://modrinth.com/mod/dynamic-fps/versions)  
-  !
+  >
   
 * [**Enhanced Block Entities**](https://modrinth.com/mod/ebe/versions)  
-  !
+  >
   
 * [**More Culling**](https://modrinth.com/mod/moreculling/versions)  
-  !
-  
-* [**FastChest**](https://github.com/FakeDomi/FastChest/releases/)  
-  !
+  >
   
 * [**FerriteCore**](https://modrinth.com/mod/ferrite-core/versions)  
-  !
+  >
   
 * [**ForgetMeChunk**](https://modrinth.com/mod/forgetmechunk/versions)  
-  !
+  >
   
 * [**Indium**](https://modrinth.com/mod/indium/versions)  
-  !
+  >
   
 * [**LazyDFU**](https://modrinth.com/mod/lazydfu/versions)  
-  !
+  >
   
 * [**Lithium**](https://modrinth.com/mod/Lithium/versions)  
-  !
+  >
   
 * [**Memory Leak Fix**](https://modrinth.com/mod/memoryleakfix/versions)  
-  !
+  >
   
 * [**Sodium**](https://modrinth.com/mod/sodium/versions)  
-  !
+  >
   
 * [**Sodium Extra**](https://modrinth.com/mod/sodium-extra/versions)  
-  !
+  >
   
 * [**Sodium Options**](https://modrinth.com/mod/reeses-sodium-options/versions)  
-  !
+  >
   
 * [**Starlight**](https://modrinth.com/mod/starlight/versions)  
-  !
+  >Rewrites the light engine to fix lighting performance and lighting errors.
   
   
 ---
@@ -100,40 +97,38 @@
 ---
 
 * [**AppleSkin**](https://modrinth.com/mod/appleskin/versions)  
-  !
+  >
   
 * [**BetterF3**](https://modrinth.com/mod/BetterF3/versions)  
-  !
+  >
   
 * [**Better PVP**](https://chocolateminecraft.com/fairplaydownload.php)  
-  !
+  >
   
 * [**Borderless Mining**](https://modrinth.com/mod/borderless-mining/versions)  
-  !
+  >
   
 * [**Client Tweaks**](https://modrinth.com/mod/client-tweaks/versions)  
-  !
+  >
   
 * [**EasierVillagerTrading**](https://modrinth.com/mod/easiervillagertrading/versions)  
-  !
+  >
   
 * [**Fabrishot**](https://modrinth.com/mod/fabrishot/versions)  
-  !
+  >
   
 * [**LambDynamicLights**](https://modrinth.com/mod/lambdynamiclights/versions)  
-  !
+  >
   
 * [**Mouse Wheelie**](https://modrinth.com/mod/mouse-wheelie/versions)  
-  !
+  >A "small" clientside mod featuring item scrolling, inventory sorting, item refilling and more!
   
 * [**Not Enough Crashes**](https://modrinth.com/mod/notenoughcrashes/versions)  
-  !
+  >When crashing, you can go back to the title screen and keep playing, without needing to restart.
   
-* [**Spyglass Improvements**](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements/files)  
-  !
  
 * [**Xaero's World Map**](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files)  
-  !
+  >Adds a self-writing fullscreen map to your Minecraft client.
 
 
 ---
@@ -141,16 +136,16 @@
 ---
 
 * [**Authentic Shadows**](https://www.curseforge.com/minecraft/texture-packs/authentic-shadows/files)  
-  !
+  >Adds a better shadow texture to the game.
 
 * [**Falling Leaves**](https://modrinth.com/mod/fallingleaves/versions)  
-  !
+  >Adds a neat little particle effect to leaf blocks.
 
 * [**Seamless Loading Screen**](https://modrinth.com/mod/seamless-loading-screen/versions)  
-  !
+  >Takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it.
 
 * [**New Default+ v1.55 (Fabric Compatable)**](https://drive.google.com/file/d/1JXDs3ZhKhDeYGfZ9u5WfOa7lD_JngrCB/view?usp=sharing)  
-  !
+  >
 
 
 ---
@@ -158,7 +153,7 @@
 ---
 
 * [**Iris Shaders**](https://modrinth.com/mod/iris/versions)  
-  !
+  >
 
 
 ---
