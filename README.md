@@ -146,13 +146,19 @@
 * [**Seamless Loading Screen**](https://modrinth.com/mod/seamless-loading-screen/versions)🔴  
   >Takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it.
 
+* **xali's** [**Enchanted Books**](https://www.curseforge.com/minecraft/texture-packs/xalis-enchanted-books/files), [**Potions**](https://www.curseforge.com/minecraft/texture-packs/xalis-potions/files), and [**Enhanced Biomes: River & Pond**](https://www.curseforge.com/minecraft/texture-packs/xalis-enhanced-biomes-river-pond/files)  
+>Makes some things look more snazzy.
+
 
 ---
 ### Shaders
 ---
 
 * [**Iris Shaders**](https://modrinth.com/mod/iris/versions)  
-  >
+  >A modern shaders mod. 
+
+* [**Complementary Shaders**](https://www.curseforge.com/minecraft/customization/complementary-shaders/files)  
+  >Shaderpack that has a potato option :)
 
 
 ---
