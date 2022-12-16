@@ -136,6 +136,9 @@
 
 * [**Authentic Shadows**](https://www.curseforge.com/minecraft/texture-packs/authentic-shadows/files)  
   >Adds a better shadow texture to the game.
+  
+* [**Effective**](https://www.curseforge.com/minecraft/mc-mods/effective/files)  
+  >Adds ambient and environmental interaction effects to enhance immersion.
 
 * [**Falling Leaves**](https://modrinth.com/mod/fallingleaves/versions)  
   >Adds a neat little particle effect to leaf blocks.
