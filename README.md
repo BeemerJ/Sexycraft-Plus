@@ -10,11 +10,11 @@
 ### Framework / Libraries
 ---
 
-* [**Fabric Loader**](https://fabricmc.net/use/installer/)  
-  >Fabric is a modular modding toolchain.
+* [**QuiltMCr**](https://quiltmc.org/en/install/client/)  
+  >The new Fabric.
 
-* [**Fabric API**](https://modrinth.com/mod/fabric-api/versions)  
-  >API providing measures utilized by mods using the Fabric toolchain. 
+* [**Quilted Fabric API**](https://modrinth.com/mod/qsl/versions)  
+  >API providing measures utilized by mods using the Fabric/Quilt toolchain. 
 
 * [**Animatica**](https://modrinth.com/mod/animatica/versions)  
   >A mod implementing the OptiFine animated texture format. 
