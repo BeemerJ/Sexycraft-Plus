@@ -10,7 +10,7 @@
 ### Framework / Libraries
 ---
 
-* [**QuiltMCr**](https://quiltmc.org/en/install/client/)  
+* [**QuiltMC**](https://quiltmc.org/en/install/client/)  
   >The new Fabric.
 
 * [**Quilted Fabric API**](https://modrinth.com/mod/qsl/versions)  
